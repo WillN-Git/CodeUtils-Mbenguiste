@@ -70,6 +70,5 @@ const darkTheme = {
 export default {
     COLORS,
     SIZES,
-    FONTS,
     darkTheme,
 };
