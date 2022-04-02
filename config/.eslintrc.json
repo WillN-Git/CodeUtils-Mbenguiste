@@ -22,7 +22,7 @@
         "prettier"
     ],
     "rules": {
-        "prettier/prettier": "error",
+        "prettier/prettier": ["error", { "endOfLine": "auto"}],
         "semi": ["error", "always"],
         "react/jsx-filename-extension": [
             "error", 
