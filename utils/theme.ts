@@ -35,7 +35,7 @@ const COLORS = {
     yellow: "#F2B872",
 };
 
-export const SIZES = {
+const SIZES = {
     //Global sizes
     base: 8,
     font: 14,
@@ -67,7 +67,7 @@ const darkTheme = {
     textColor: COLORS.white,
 };
 
-export default {
+export {
     COLORS,
     SIZES,
     darkTheme,
